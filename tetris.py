@@ -7,7 +7,6 @@ size = 30
 x,y = 30,24
 
 #initialising/creating the screen
-set_trace_log_level(LOG_NONE)
 init_window(1280,720, "Tetris")
 
 #function to create table
